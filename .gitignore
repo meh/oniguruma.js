@@ -1,6 +1,7 @@
 libonig.js
 libonig.O2.js
 libonig.O3.js
+oniguruma.js
 
 oniguruma/Makefile
 oniguruma/autom4te.cache
